@@ -6,9 +6,9 @@ versions of gameplay:
 --ten       Start with ten food
 --full      Loads a full layout and assault plan
 --water     Loads a full layout with water
---insane    Loads a difficult assault plan
+--insane    Loads a difficult assault
 
-Ants project from CS61A (3rd project). Only code done by me is found in "Ants.py" file and is tagged between "HLI" comments. Images need to be downloaded as well (found in the images directory)
+ Only code done by me is found in "Ants.py" file and is tagged between "HLI" comments. Images need to be downloaded as well (found in the images directory)
 
 
 General flow of game:
